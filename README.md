@@ -71,3 +71,8 @@ This demonstrates how the system can be used to quickly populate scenes.
 * Integrate Niagara effects for dynamic spawning feedback
 
 ---
+
+## ⚠️ Note
+
+Some images are temporary placeholders for documentation purposes.  
+They will be replaced with screenshots from the actual project as development progresses.
