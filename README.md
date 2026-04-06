@@ -55,7 +55,7 @@ This allows for both instant generation and time-based spawning behaviours.
 
 ### 🌍 Final Result
 
-![Final Result](docs/images/final-result.png)
+![Final Result](docs/images/final-result.jpg)
 
 The final output shows multiple actors distributed across the environment using procedural logic.
 This demonstrates how the system can be used to quickly populate scenes.
