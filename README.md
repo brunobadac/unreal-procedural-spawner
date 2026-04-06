@@ -28,7 +28,7 @@ This forms the core logic responsible for procedural placement.
 
 ### 📦 Spawn Area
 
-![Spawn Area](docs/images/spawn-area.png)
+![Spawn Area](docs/images/spawn-area.PNG)
 
 A Box Collision component defines the spawn boundaries.
 All generated positions are constrained within this volume, allowing controlled distribution of spawned actors.
@@ -37,7 +37,7 @@ All generated positions are constrained within this volume, allowing controlled 
 
 ### 🎲 Randomization
 
-![Randomization](docs/images/randomization.png)
+![Randomization](docs/images/randomization.jpeg)
 
 Random values are applied to properties such as position, rotation, scale, or actor selection.
 This ensures variation and prevents repetitive patterns in the spawned result.
